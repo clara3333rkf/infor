@@ -1,0 +1,87 @@
+
+body{
+	background-color:green;
+}
+#ma{
+	padding-top:30px;
+	padding-bottom:30px;
+	display:flex;
+	background-color:#2E8B57;	
+}
+#cla{
+	color:white;
+	padding-top:20px;
+	font-family:Arial;
+	padding-left:390px;
+}
+#caca{
+	display:flex;
+	justify-content:space-around;
+	flex-direction:center;
+	background-color:black;
+}
+#lar{
+	text-decoration:none;
+	color:white;
+	padding-top:5px;
+	padding-bottom:5px;
+	}
+#fui{
+	padding-left:350px ;
+	width:800px;
+	height:300px;
+}	
+#MARTE{
+	font-size:40px;	
+	font-family:Arial;
+} 
+#lua{
+	font-size:30px;	
+	font-family:Arial;
+}
+#p{
+	font-size:25px;
+	font-family:Arial;
+}
+#MAY{
+	font-size:30px;	
+	font-family:Arial;
+	
+}
+#felix{
+	padding-left:580px;
+}
+#mika{
+	padding-left:130px;
+}
+#rita {
+	display:grid;
+	grid-template-rows:repeat(3,200px);
+	grid-template-columns: 1fr 1fr 1fr;
+	background-color: #2E8B57;
+	font-family:Arial;
+	font-size:20px;	
+}
+#grid-item-1{
+	padding-top:20px;
+	grid-row:1/1;
+	background-color: pink
+}
+#grid-item-2{
+	padding-top:15px;
+	grid-row:1/2;
+}
+#grid-item-3{
+	padding-top:15px;
+	grid-row:1/2;
+}
+#a{
+	padding-left:350px ;
+	width:800px;
+	height:300px;	`
+}
+img{
+	padding-left:350px ;
+	width:800px;
+	height:300px;
+}
